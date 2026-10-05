@@ -313,6 +313,7 @@
     "certificates": [
         {
             "id": 1,
+            "name": "JobReady: Employability Skills",
             "image": "/images/certificates/cert (1).jpg"
         },
         {

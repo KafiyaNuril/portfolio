@@ -9,7 +9,7 @@ const toggleMenu = () => {
 </script>
 
 <template>
-  <nav class="fixed inset-x-0 top-0 z-50 flex justify-between items-center px-6 md:px-12 py-6 bg-[#FFF9EF]/95 backdrop-blur-sm">
+  <nav class="fixed font-tai-heritage inset-x-0 top-0 z-50 flex justify-between items-center px-6 md:px-12 py-6 bg-[#FFF9EF]/95 backdrop-blur-sm">
     <div class="font-semibold text-lg text-black tracking-wide">
       Kafiyaanrll
     </div>
