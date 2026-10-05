@@ -1,0 +1,401 @@
+{
+    "user": {
+        "id": 1,
+        "name": "Kafiya Nuril Kautsar",
+        "phone": "+62 89516875989",
+        "address": "Bogor, Indonesia",
+        "birthday": "04 September 2008",
+        "email": "kafiyanuril@gmail.com",
+        "freelance": true
+    },
+    "educations": [
+        {
+            "id": 1,
+            "department": "SMK Wikrama Bogor",
+            "school": "Vocational high school",
+            "start_year": 2023,
+            "end_year": 2026,
+            "desc": "Focusing on web development, programming logic, software engineering, UI/UX design, and the preparation of technical documentation."
+        }
+    ],
+    "experiences": [
+        {
+            "id": 1,
+            "position": "Freelance UI/UX Design",
+            "start_date": "May 2026",
+            "end_date": null,
+            "desc": "Translated client requirements into high-fidelity web UI/UX designs. Created interactive prototypes and user flows, adapting to client feedback and managing major design revisions efficiently."
+        },
+        {
+            "id": 2,
+            "position": "Inventory Management System",
+            "start_date": "Apr 2026",
+            "end_date": null,
+            "desc": "Developed a web-based inventory management application using the Laravel framework. Implemented the MVC architectural pattern, managed routing and controller logic, configured MySQL database table relationships, and generated inventory reports."
+        },
+        {
+            "id": 3,
+            "position": "Inventory Management System",
+            "start_date": "Apr 2026",
+            "end_date": null,
+            "desc": "Developed a web-based inventory management application using the Laravel framework. Implemented the MVC architectural pattern, managed routing and controller logic, configured MySQL database table relationships, and generated inventory reports."
+        },
+        {
+            "id": 4,
+            "position": "Mail Management Application",
+            "start_date": "Jul 2025",
+            "end_date": "Dec 2025",
+            "desc": "Contributed to the development and maintenance of internal web pages and features using Django, optimizing data management and resolving system bugs"
+        },
+        {
+            "id": 5,
+            "position": "Application Performance Management (APM)",
+            "start_date": "Jul 2025",
+            "end_date": "Dec 2025",
+            "desc": "Redeveloped the APM system interface using Nuxt.js and Vuetify into responsive, reusable components following corporate design standards."
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "name": "Motorcycle Rental",
+            "tools": ["PHP", "Bootstrap", "OOP"],
+            "image": "/images/projects/rental.png",
+            "desc": "Payment page with a modern design, displaying clear transaction details."
+        },
+        {
+            "id": 2,
+            "name": "Purchasing Shell",
+            "tools": ["PHP", "Bootstrap", "OOP"],
+            "image": "/images/projects/shell.png",
+            "desc": "The payment page for fuel features a modern and clean design, equipped with clear transaction details and distinctive Shell visual elements."
+        },
+        {
+            "id": 3,
+            "name": "Weather App",
+            "tools": ["React", "Bootstrap"],
+            "image": "/images/projects/weather.png",
+            "desc": "Displaying current weather information in real-time with dynamic visuals and interactive weather icons."
+        },
+        {
+            "id": 4,
+            "name": "Public Complaints",
+            "tools": ["Laravel", "Bootstrap"],
+            "image": "/images/projects/public-complaints.png",
+            "desc": "Facilitating residents to report problems quickly and clearly, equipped with a responsive interface and visuals that support the convenience of reporting."
+        },
+        {
+            "id": 5,
+            "name": "Ticketing App",
+            "tools": ["Flutter", "Dart", "Mobile App"],
+            "image": "/images/projects/flutter.png",
+            "desc": "Comprehensive mobile application designs focusing on user experience, accessibility, and modern interface patterns across different industries."
+        },
+        {
+            "id": 6,
+            "name": "Pawnshop",
+            "tools": ["Laravel", "Bootstrap"],
+            "image": "/images/projects/pawnshop.png",
+            "desc": "Modern and secure pawnshop platform for managing item pledges, checking loan status, and tracking payments with ease."
+        },
+        {
+            "id": 7,
+            "name": "Pharmacy Information System",
+            "tools": ["Laravel", "Bootstrap"],
+            "image": "/images/projects/pharmacy.png",
+            "desc": "Modern architectural visualization with detailed environment and lighting effects."
+        },
+        {
+            "id": 8,
+            "name": "Management Student Data",
+            "tools": ["Laravel", "Bootstrap"],
+            "image": "/images/projects/student-data.png",
+            "desc": "A simple application to efficiently and accurately record, monitor, and update student information."
+        },
+        {
+            "id": 9,
+            "name": "Inventory Consumption Management",
+            "tools": ["Laravel", "Bootstrap"],
+            "image": "/images/projects/inventory.png",
+            "desc": "Monitor the use of goods, with neat recording of entries and exits."
+        },
+        {
+            "id": 10,
+            "name": "Analytics Library",
+            "tools": ["React", "Bootstrap"],
+            "image": "/images/projects/library.png",
+            "desc": "Clean and modern dashboard interface with data visualization and user-friendly navigation."
+        }
+        
+    ],
+    "journey": [
+        {
+            "id": 1,
+            "grade": "10th Grade",
+            "image": "/images/journey/10th.png",
+            "activities": [
+                {
+                    "id": 101,
+                    "title": "Matrix Class (Orientation & Track Selection)",
+                    "desc": "a matriculation class for the selected major, followed by a competency assessment that confirmed my suitability for the field of Software Engineering."
+                },
+                {
+                    "id": 102,
+                    "title": "Introduction to Software Development",
+                    "desc": "Learn the fundamentals of computers and programming, ranging from system logic (binary & flowcharts) and user interface design to basic web programming."
+                },
+                {
+                    "id": 103,
+                    "title": "Join The Scout Council",
+                    "desc": "Active in the Scout Council and entrusted with serving on the organizing committee for the Bantara 28 event to develop soft skills, leadership, and teamwork."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "grade": "11th Grade",
+            "image": "/images/journey/11th.png",
+            "activities": [
+                {
+                    "id": 101,
+                    "title": "Full-Stack & Mobile Exploration",
+                    "desc": "Start learning modern web development frameworks such as Laravel, Lumen, React, and Vue.js, Tailwind and explore mobile app development using Flutter and Firebase."
+                },
+                {
+                    "id": 102,
+                    "title": "REST API Development & Testing",
+                    "desc": "Built custom RESTful APIs and utilized Postman for API testing, endpoint documentation, and request/response debugging."
+                },
+                {
+                    "id": 103,
+                    "title": "Database & System Logic",
+                    "desc": "Advanced my skills in database modeling and system workflow design (flowcharts) for medium-scale applications."
+                },
+                {
+                    "id": 104,
+                    "title": "DigiUp Telkom Certification (UI/UX Design)",
+                    "desc": "Earned a professional certification from DigiUp Telkom, mastering User-Centered Design principles, wireframing, and interactive prototyping."
+                },
+                {
+                    "id": 105,
+                    "title": "Technical Qualification & Soft Skills",
+                    "desc": "Passed the school's technical project qualification review, participated in an Entrepreneurship Bazaar, and continued leadership contributions as an organizer for the Bantara 29 event."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "grade": "12th Grade",
+            "image": "/images/journey/12th.png",
+            "activities": [
+                {
+                    "id": 101,
+                    "title": "6-Month Industrial Internship",
+                    "desc": "Completed an intensive 6-month software development internship with a daily commute between Bogor and Jakarta. Contributed directly to production projects using Django and Nuxt.js."
+                },
+                {
+                    "id": 102,
+                    "title": "Bootcamp",
+                    "desc": "Enhanced code quality and security standards through a Secure Coding Bootcamp and further refined industry-level practices via Dicoding Coding Camp."
+                },
+                {
+                    "id": 103,
+                    "title": "Academic & Professional Competency",
+                    "desc": "Completed the Academic Competency Test (TKA) and passed the final Vocational Competency Examination (UKK) with a focus on web development."
+                }
+            ]
+        }
+    ],
+    "internships": {
+        "company": "PT Median Talenta Raya",
+        "role": "FullStack Developer Intern",
+        "projects": [
+            {
+                "id": 1,
+                "title": "APM (Application Performance Management)",
+                "description": "Redesigning the APM interface. This project focuses on updating the technology stack to the latest version of Nuxt.js and overhauling the user interface (UI) using an industry-standard approach based on a Gmail-style interface. This approach was chosen to provide users with a familiar, intuitive, and responsive navigation experience when managing complex data.",
+                "tools": ["Nuxt.js", "Vuetify", "Figma"],
+                "images": ["/images/internship/apm-1.png", "/images/internship/apm-2.png"]
+            },
+            {
+                "id": 2,
+                "title": "Application Mail Management",
+                "description": "Develop a web-based email/mail management application using Django to simplify the management, archiving, and processing of both internal and external messages",
+                "tools": ["Django", "Tailwind", "Figma"],
+                "images": ["/images/internship/mail-1.png", "/images/internship/mail-2.png"]
+            }
+        ],
+        "activities": [
+            "/images/internship/wow-1.jpg",
+            "/images/internship/wow-2.jpg",
+            "/images/internship/last-day.jpeg",
+            "/images/internship/batik-day.jpeg"
+        ]
+    },
+    "tools": [
+        { "id": 1, "name": "PHP", "icon": "/images/tools/PHP.svg.webp"},
+        { "id": 2, "name": "JavaScript", "icon": "/images/tools/Javascript.webp"},
+        { "id": 3, "name": "HTML", "icon": "/images/tools/HTML5.svg.webp"},
+        { "id": 4, "name": "CSS", "icon": "/images/tools/CSS3.svg.webp"},
+        { "id": 5, "name": "Bootstrap", "icon": "/images/tools/Bootstrap.svg"},
+        { "id": 6, "name": "Laravel", "icon": "/images/tools/Laravel.svg.webp"},
+        { "id": 7, "name": "Lumen", "icon": "/images/tools/Lumen.png"},
+        { "id": 8, "name": "React", "icon": "/images/tools/React.png"},
+        { "id": 9, "name": "Vue", "icon": "/images/tools/Vue.png"},
+        { "id": 10, "name": "Tailwind", "icon": "/images/tools/Tailwind.png"},
+        { "id": 11, "name": "Flutter", "icon": "/images/tools/Flutter.jpg"},
+        { "id": 12, "name": "Firebase", "icon": "/images/tools/Firebase.png"},
+        { "id": 13, "name": "Nuxt", "icon": "/images/tools/Nuxt.svg"},
+        { "id": 14, "name": "Django", "icon": "/images/tools/Django.png"},
+        { "id": 15, "name": "Vuetify", "icon": "/images/tools/Vuetify.svg"},
+        { "id": 16, "name": "Figma", "icon": "/images/tools/Figma.png"},
+        { "id": 17, "name": "Postman", "icon": "/images/tools/Postman.webp"},
+        { "id": 18, "name": "VScode", "icon": "/images/tools/VScode.png"},
+        { "id": 19, "name": "Notion", "icon": "/images/tools/Notion.png"},
+        { "id": 20, "name": "Trello", "icon": "/images/tools/Trello.webp"}
+    ],
+    "freelance": [
+        {
+            "id": 1,
+            "title": "Employee Leave Management System",
+            "description": "Designing the user interface and user experience (UI/UX Design) for a digital platform for employee leave requests and tracking. This freelance project aims to streamline the leave request process, provide transparent visualization of attendance data for the HR department, and expedite the document approval process.",
+            "images": [
+                "/images/freelance/leave-1.png",
+                "/images/freelance/leave-2.png",
+                "/images/freelance/leave-3.png"
+            ],
+            "colorPalette": ["#3C8CDF", "#FFFFFF", "#F6F7F8", "#000000"]
+        },
+        {
+            "id": 2,
+            "title": "Administrative Services Website",
+            "description": "Designing a public administration service portal interface aimed at simplifying the submission of correspondence, document processing, and independent monitoring of file status.",
+            "images": [
+                "/images/freelance/admin-1.png",
+                "/images/freelance/admin-2.png"
+            ],
+            "colorPalette": ["#00661A", "#FFFFFF", "#737780", "#004010"]
+        },
+        {
+            "id": 3,
+            "title": "Digital Inventory Management System",
+            "description": "Designing an interface for an inventory management system to facilitate real-time stock monitoring, tracking of incoming and outgoing goods, and logistics reporting.",
+            "images": [
+                "/images/freelance/inven-1.png",
+                "/images/freelance/inven-2.png",
+                "/images/freelance/inven-3.png"
+            ],
+            "colorPalette": ["#293C69", "#E2E8F0", "#F6F7F8", "#006C49"]
+        },
+        {
+            "id": 4,
+            "title": "Document Archiving System / SIMAP",
+            "description": "Designing the user interface for a digital records management information system platform to facilitate the digitization, categorization, tracking, and management of document access rights.",
+            "images": [
+                "/images/freelance/simap.png",
+                "/images/freelance/simap1.png",
+                "/images/freelance/simap2.png"
+            ],
+            "colorPalette": ["#FFFFFF", "#64748B", "#1A2B4C", "#CBD5E1"]
+        },
+        {
+            "id": 5,
+            "title": "Cooperative Savings & Loans System",
+            "description": "Designing a financial application interface for a credit union, with a focus on the clarity of member transaction data, loan applications, and transparent installment calculations.",
+            "link": "https://www.figma.com/design/YSZfOXOJVIOqB16PmjmALP/Simpan-Pinjam-Koperasi-Karyawan?node-id=1-3&t=Nd0T5kou4MqSX83z-1",
+            "images": [
+                "/images/freelance/Cooperative.png",
+                "/images/freelance/Cooperative1.png"
+            ],
+            "colorPalette": ["#54643B", "#45483E", "#FFFFFF", "#1A1C18"]
+        }
+    ],
+    "certificates": [
+        {
+            "id": 1,
+            "image": "/images/certificates/cert (1).jpg"
+        },
+        {
+            "id": 2,
+            "image": "/images/certificates/cert (2).jpg"
+        },
+        {
+            "id": 3,
+            "image": "/images/certificates/cert (3).jpg"
+        },
+        {
+            "id": 4,
+            "image": "/images/certificates/cert (4).jpg"
+        },
+        {
+            "id": 5,
+            "image": "/images/certificates/cert (5).jpg"
+        },
+        {
+            "id": 6,
+            "image": "/images/certificates/cert (6).jpg"
+        },
+        {
+            "id": 7,
+            "image": "/images/certificates/cert (7).jpg"
+        },
+        {
+            "id": 8,
+            "image": "/images/certificates/cert (8).jpg"
+        },
+        {
+            "id": 9,
+            "image": "/images/certificates/cert (9).jpg"
+        },
+        {
+            "id": 10,
+            "image": "/images/certificates/cert (10).jpg"
+        },
+        {
+            "id": 11,
+            "image": "/images/certificates/cert (11).jpg"
+        },
+        {
+            "id": 12,
+            "image": "/images/certificates/cert (12).jpg"
+        },
+        {
+            "id": 13,
+            "image": "/images/certificates/cert (13).jpg"
+        },
+        
+        {
+            "id": 14,
+            "image": "/images/certificates/cert (14).jpg"
+        },
+        {
+            "id": 15,
+            "image": "/images/certificates/cert (15).jpg"
+        },
+        {
+            "id": 16,
+            "image": "/images/certificates/cert (16).jpg"
+        },
+        {
+            "id": 17,
+            "image": "/images/certificates/cert (17).jpg"
+        },
+        {
+            "id": 18,
+            "image": "/images/certificates/cert (18).jpg"
+        },
+        {
+            "id": 19,
+            "image": "/images/certificates/cert (19).jpg"
+        },
+        {
+            "id": 20,
+            "image": "/images/certificates/cert (20).jpg"
+        },
+        {
+            "id": 21,
+            "image": "/images/certificates/cert (21).jpg"
+        }
+    ],
+    "messages": []
+}

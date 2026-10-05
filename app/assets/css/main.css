@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Italianno&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Tai+Heritage+Pro:wght@400;700&family=Xanh+Mono:ital@0;1&display=swap');
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+.font-italianno {
+  font-family: 'Italianno', cursive;
+}
+
+/* Registrasi Utility Class Font */
+@theme {
+  --font-italianno: 'Italianno', cursive;
+  --font-tai-heritage: 'Tai Heritage Pro', serif;
+  --font-montserrat: 'Montserrat', sans-serif;
+  --font-xanh-mono: 'Xanh Mono', monospace;
+  --font-poppins: 'Poppins', sans-serif;
+  --font-inter: 'Inter', sans-serif;
+}
