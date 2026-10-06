@@ -234,7 +234,7 @@
     },
     "tools": [
         { "id": 1, "name": "PHP", "icon": "/images/tools/PHP.svg.webp"},
-        { "id": 2, "name": "JavaScript", "icon": "/images/tools/Javascript.webp"},
+        { "id": 2, "name": "JavaScript", "icon": "/images/tools/JavaScript.webp"},
         { "id": 3, "name": "HTML", "icon": "/images/tools/HTML5.svg.webp"},
         { "id": 4, "name": "CSS", "icon": "/images/tools/CSS3.svg.webp"},
         { "id": 5, "name": "Bootstrap", "icon": "/images/tools/Bootstrap.svg"},
@@ -318,83 +318,103 @@
         },
         {
             "id": 2,
+            "name": "Building Web Apps with React",
             "image": "/images/certificates/cert (2).jpg"
         },
         {
             "id": 3,
+            "name": "Getting Started with Programming Basics to Become a Software Developer",
             "image": "/images/certificates/cert (3).jpg"
         },
         {
             "id": 4,
+            "name": "Learning the Basics of Cloud and AI on AWS",
             "image": "/images/certificates/cert (4).jpg"
         },
         {
             "id": 5,
+            "name": "Learning the Basics of JavaScript Programming",
             "image": "/images/certificates/cert (5).jpg"
         },
         {
             "id": 6,
+            "name": "Learning Back-End Development for Beginners with JavaScript",
             "image": "/images/certificates/cert (6).jpg"
         },
         {
             "id": 7,
+            "name": "Introduction to Programming Logic (Programming Logic 101)",
             "image": "/images/certificates/cert (7).jpg"
         },
         {
             "id": 8,
+            "name": "Learning to Build Web Front-Ends for Beginners",
             "image": "/images/certificates/cert (8).jpg"
         },
         {
             "id": 9,
+            "name": "Learning the Basics of Web Programming",
             "image": "/images/certificates/cert (9).jpg"
         },
         {
             "id": 10,
+            "name": "Secure Coding Certification",
             "image": "/images/certificates/cert (10).jpg"
         },
         {
             "id": 11,
+            "name": "Unity Essentials Pathway",
             "image": "/images/certificates/cert (11).jpg"
         },
         {
             "id": 12,
+            "name": "Problem Solving & Innovation",
             "image": "/images/certificates/cert (12).jpg"
         },
         {
             "id": 13,
+            "name": "Interpersonal Skills",
             "image": "/images/certificates/cert (13).jpg"
         },
         
         {
             "id": 14,
+            "name": "Work Productivity Tools",
             "image": "/images/certificates/cert (14).jpg"
         },
         {
             "id": 15,
+            "name": "Online Communication & Data Security",
             "image": "/images/certificates/cert (15).jpg"
         },
         {
             "id": 16,
+            "name": "Self Management",
             "image": "/images/certificates/cert (16).jpg"
         },
         {
             "id": 17,
+            "name": "Effective Speaking and Listening Skills",
             "image": "/images/certificates/cert (17).jpg"
         },
         {
             "id": 18,
+            "name": "Self Presentation",
             "image": "/images/certificates/cert (18).jpg"
         },
         {
             "id": 19,
+            "name": "Impactful Writing Skills",
             "image": "/images/certificates/cert (19).jpg"
         },
         {
             "id": 20,
+            "name": "Professionalism",
             "image": "/images/certificates/cert (20).jpg"
         },
         {
             "id": 21,
+            "name": "Customer Centricity",
             "image": "/images/certificates/cert (21).jpg"
         }
     ],
